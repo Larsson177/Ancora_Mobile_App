@@ -1,2 +1,2 @@
 # Ancora_Mobile_App
-Flutter application
+Counselling Services Appointment Management System
